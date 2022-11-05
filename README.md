@@ -1,8 +1,5 @@
-# Sleek Gear
- <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).gif" display= "block" 
-  margin-left= "auto"
-  margin-right= "auto"
-  width= "50%">
+# Sleek Gear.
+ <center><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).gif" /></center>
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
 
