@@ -1,5 +1,6 @@
 # Sleek Gear
 <br>
+
 <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif" width="500" align="center">
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
@@ -15,6 +16,10 @@
  <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="30" align="center">&nbsp;Easy to use interface</li>
  
 </ul>
+
+Types of training provided
+--2 wheelers
+--4 wheelers
 
 Driving Schools can get themselves registered here
 Learners can find the best Driving School for themselves
