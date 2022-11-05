@@ -1,6 +1,5 @@
-# DrivingSchools
-<h1>Sleek Gear</h1>
-<img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design.jpg" width="500" align="center">
+# Sleek Gear
+ <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design.jpg" width="500" align="center">
 
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
@@ -13,6 +12,7 @@ Site provides with
  <li>Safety and Security</li>
  <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(1).jpg" width="50" align="center">
  <li>Affordablity</li>
+ <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">
  <li>Easy to use interface</li>
 </ul>
 
