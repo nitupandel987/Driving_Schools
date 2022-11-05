@@ -1,7 +1,7 @@
 # Sleek Gear
  <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design.jpg" width="500" align="center">
 
-
+![Video](https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).mp4)
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
 
 <h4>Register your Driving School</h4> 
