@@ -14,6 +14,7 @@ Site provides with
  <li>Affordablity</li>
  <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">
  <li>Easy to use interface</li>
+ <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="50" align="center">
 </ul>
 
 Driving Schools can get themselves registered here
