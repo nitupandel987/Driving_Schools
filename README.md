@@ -8,12 +8,12 @@
 
 <h4>Site provides with</h4>
 <ul>
- <li>Safety and Security</li>
- <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(4).jpg">
- <li>Affordablity</li>
- <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">
- <li>Easy to use interface</li>
- <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="50" align="center">
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(4).jpg" width="50" align="center">Safety and Security</li>
+ 
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(2).jpg" width="50" align="center">Affordablity</li>
+ 
+ <li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="50" align="center">Easy to use interface</li>
+ 
 </ul>
 
 Driving Schools can get themselves registered here
