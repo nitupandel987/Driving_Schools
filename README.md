@@ -1,6 +1,6 @@
 # Driving_Schools
 
-Driving School
+<h1>Sleek Gear</h1>
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
 
@@ -12,4 +12,8 @@ Site provides with
  <li>Safety and Security</li>
  <li>Affordablity</li>
  <li>Easy to use interface</li>
- </ul>
+</ul>
+
+Driving Schools can get themselves registered here
+Learners can find the best Driving School for themselves
+
