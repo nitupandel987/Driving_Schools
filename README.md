@@ -1,4 +1,4 @@
-# Sleek Gear
+#                                                                          Sleek Gear
 <br>
 
 <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif" width="450" align="center">
