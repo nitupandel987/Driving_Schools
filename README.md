@@ -8,7 +8,8 @@ Driving School
 <h4>Get yourself trained through best Driving Schools</h4>
 
 Site provides with
- --Safety and Security
- --Affordablity
- --Easy to use interface
- 
+<ul>
+ <li>Safety and Security</li>
+ <li>Affordablity</li>
+ <li>Easy to use interface</li>
+ </ul>
