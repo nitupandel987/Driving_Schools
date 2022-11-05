@@ -1,7 +1,7 @@
 #                                                                          Sleek Gear
 <br>
 
-<img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif" width="750" height="550"  align="center" style="display: block;
+<img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif"  style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
