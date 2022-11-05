@@ -1,11 +1,11 @@
 #                         <center><h1>                                                 Sleek Gear<h1></center>
 <br>
 
-<img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif"  style="display: block;
+<center><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif"  style="display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
-
+</center>
 <h3>Now it is easy to find safe, secure and affordable Driving Schools with <img src="https://github.com/curriee11/Driving_Schools/blob/main/secureGear.png" width="70"></h3>
 <h4>Register your Driving School</h4> 
 <h4>Get yourself trained through best Driving Schools</h4>
