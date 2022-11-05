@@ -7,7 +7,7 @@
 <h4>Register your Driving School</h4>
 <h4>Get yourself trained through best Driving Schools</h4>
 
-Site provides with
+<h4>Site provides with</h4>
 <ul>
  <li>Safety and Security</li>
  <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(1).jpg" width="50" align="center">
