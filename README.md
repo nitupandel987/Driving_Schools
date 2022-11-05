@@ -1,4 +1,4 @@
-#                         <h1>                                                 Sleek Gear<h1>
+#                         <center><h1>                                                 Sleek Gear<h1></center>
 <br>
 
 <img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).gif"  style="display: block;
