@@ -1,5 +1,5 @@
 # Driving_Schools
-
+![Banner Khushi](https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design.jpg)
 <h1>Sleek Gear</h1>
 
 <h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
