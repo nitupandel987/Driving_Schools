@@ -1,7 +1,9 @@
 # Driving_Schools
 
-<h2>Now it is easy to find safe, secure and affordable Driving Schools</h2>
+Driving School
 
-<h3>Register your Driving School</h3>
-<h3>Get yourself trained through best Driving Schools</h3>
+<h3>Now it is easy to find safe, secure and affordable Driving Schools</h3>
+
+<h4>Register your Driving School</h4>
+<h4>Get yourself trained through best Driving Schools</h4>
 
