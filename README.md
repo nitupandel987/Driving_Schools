@@ -20,8 +20,8 @@
 Types of training provided
 
 <ul>
-<li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(5).jpg" width="30">2 wheelers</li>
-<li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(6).jpg" width="30">4 wheelers</li>
+<li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(5).jpg" width="30" height="40">2 wheelers</li>
+<li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(6).jpg" width="30" height="40">4 wheelers</li>
 </ul>
 
 Driving Schools can get themselves registered here
