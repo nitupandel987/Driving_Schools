@@ -20,10 +20,10 @@
  
 </ul>
 
+  
 Types of training provided
-
 <ul>
-<li>2 wheelers</li>
+<li><img src="https://github.com/curriee11/Driving_Schools/blob/main/Untitled%20design%20(3).jpg" width="30" align="center">2 wheelers</li>
 <li>4 wheelers</li>
 </ul>
 
